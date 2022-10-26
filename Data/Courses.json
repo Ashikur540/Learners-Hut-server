@@ -236,7 +236,7 @@
 
     "category_id": "04",
     "rating": { "number": 5.0, "badge": "Hot&New" },
-    "total_inrolled": 328,
+    "total_inrolled": 3128,
     "title": "Java Programming Masterclass covering Java 11 & Java 17",
     "instructor": {
       "name": ["goils alo Learining", "Baluka Goekj"],
@@ -259,7 +259,7 @@
 
     "category_id": "04",
     "rating": { "number": 4.8, "badge": "Hot&New" },
-    "total_inrolled": 238,
+    "total_inrolled": 2338,
     "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
     "instructor": {
       "name": ["Jonas alo"],
@@ -282,7 +282,7 @@
 
     "category_id": "04",
     "rating": { "number": 4.8, "badge": "Hot&New" },
-    "total_inrolled": 238,
+    "total_inrolled": 2338,
     "title": "The Complete PHP MYSQL Professional Course with 5 Projects",
     "instructor": {
       "name": ["Jonas alo"],
@@ -291,12 +291,85 @@
     "thumbnail_url": "https://i.ibb.co/TbP9pmr/4c5.jpg",
     "image_url": "https://i.ibb.co/31BZWXK/PHP.jpg",
     "description": "Learn PHP MYSQL by building 5 Projects including PHP Regular Expressions & CMS | Become a Full Stack Back-End Developer.",
-    "price": 39,
+    "price": 29,
     "learn": [
       "1.All PHP Fundamentals and Building Blocks with practical implementation in Projects",
       "2. Form Validation with most Secure way using Regular Expressions",
       "3.Employee Management System CRUD Application in PHP From Scartch",
       "4.Complete CMS ( Content Management System) with Admin-Panel"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6358c2fe70a541624bc7cd89",
+
+    "category_id": "05",
+    "rating": { "number": 4.7, "badge": "BEstseller" },
+    "total_inrolled": 785078,
+    "title": "The Complete 2022 Web Development Bootcamp",
+    "instructor": {
+      "name": ["Angela uyo"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/TbP9pmr/4c5.jpg",
+    "image_url": "https://i.ibb.co/31BZWXK/PHP.jpg",
+    "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps.",
+    "price": 32,
+    "learn": [
+      "1.You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+      "2.You will master both front and back-end development, becoming a full-stack developer by the end of the course.",
+      "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "4.Learn professional developer best practices"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6c2fe70a541624bc7cd229",
+
+    "category_id": "05",
+    "rating": { "number": 4.4, "badge": "Trending" },
+    "total_inrolled": 785078,
+    "title": "The Full stack Web Development Bootcamp 2022 - MERN STACK",
+    "instructor": {
+      "name": ["Aroua Academy"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/prNRWWJ/5c1.jpg",
+    "image_url": "https://i.ibb.co/54qQYps/5C11.jpg",
+    "description": "*UPDATED* fullstack web development -MERN STACK, node js, react, mongodb, javascript, HTML, CSS, express, API, & more",
+    "price": 15,
+    "learn": [
+      "1.Build Income & ExpensesTracker App using MERN STACK",
+      "2.Build Task Manager App using html, css and javascript",
+      "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "4.Learn professional developer best practices",
+      "Master FLEXBOX to layout content easil",
+      "Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "2637f70a541624bc7cd229",
+
+    "category_id": "05",
+    "rating": { "number": 4.6, "badge": "Highest rated" },
+    "total_inrolled": 785078,
+    "title": "Full Stack Web Development MASTERY Course - Novice to Expert",
+    "instructor": {
+      "name": ["Perak Mehta"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/NyDnX86/5c2.jpg",
+    "image_url": "https://i.ibb.co/wdD0xMC/5C22.jpg",
+    "description": "*COMPLETE Beginner to Expert Guide to Making REAL Websites & Web Apps THIS YEAR With MERN Stack EVEN WITH Zero Experience",
+    "price": 35,
+    "learn": [
+      "1.Build Income & ExpensesTracker App using MERN STACK",
+      "2.Build Task Manager App using html, css and javascript",
+      "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "4.Learn professional developer best practices",
+      "Master FLEXBOX to layout content easil",
+      "Learn how to upload file to cloudinary using Node js"
     ],
     "curriculum ": ""
   }
