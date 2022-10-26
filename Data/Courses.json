@@ -185,25 +185,117 @@
     "curriculum ": ""
   },
   {
-    "_id": "b92b3841fb8c3887e",
+    "_id": "6358b92b0062f71d023285e0",
 
     "category_id": "04",
-    "rating": { "number": 4.8, "badge": "Bestseller" },
+    "rating": { "number": 4.6, "badge": "Trending" },
     "total_inrolled": 328,
-    "title": "Photography Masterclass: A Complete Guide to Photography",
+    "title": "The Python Mega Course: Build 10 Real World Applications",
     "instructor": {
-      "name": ["Alan keris", "goils alo"],
-      "last_updated": " 10/2022"
+      "name": ["goils alo"],
+      "last_updated": " 12/2022"
     },
     "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
     "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
-    "description": "The Best Online Professional Photography Class: How to Take Amazing Photos for Beginners & Advanced Photographers",
+    "description": "Become a Python programmer by learning how to build any Python program from scratch, GUIs, web apps, APIs, and more.",
     "price": 40,
     "learn": [
-      "1.You will know how the camera truly works, so you can take better photos using manual settings",
-      "2.Be aware what photography setting to change when you want to photograph more than one person!",
-      "3.Enjoy creating photography effects like the motion of water while photographing waterfalls",
-      "4.You will know how to edit your photos like a professional"
+      "1.ou will learn Python from zero to advanced.",
+      "2.You will learn how to make desktop programs, web apps, data apps, APIs, web scrapers, and more.",
+      "3.You will build 10 real-world applications with Python. ",
+      "4.You will learn other programming tools and techniques such as SQL, HTML, deployments, debugging, and more."
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6b92b002f71d023285",
+
+    "category_id": "04",
+    "rating": { "number": 5.0, "badge": "Hot&New" },
+    "total_inrolled": 28,
+    "title": "Deep Dive into Artificial Intelligence - The Master Program",
+    "instructor": {
+      "name": ["goils alo Learining"],
+      "last_updated": " 22/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
+    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "description": "Artificial Intelligence | Data Science with Python | Machine Learning | Deep Learning with Keras and TensorFlow",
+    "price": 35,
+    "learn": [
+      "1.Work on Data Science with python",
+      "2.Deep dive into Machine Learning",
+      "3.Understand Deep Learning with Keras and TensorFlow ",
+      "4.You will learn other programming tools and techniques such as SQL, HTML, deployments, debugging, and more."
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "626736ww2f71d023285",
+
+    "category_id": "04",
+    "rating": { "number": 5.0, "badge": "Hot&New" },
+    "total_inrolled": 328,
+    "title": "Java Programming Masterclass covering Java 11 & Java 17",
+    "instructor": {
+      "name": ["goils alo Learining", "Baluka Goekj"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
+    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+    "price": 35,
+    "learn": [
+      "1.Learn the core Java skills needed to apply for Java developer positions in just 14 hours",
+      "2. Be able to demonstrate your understanding of Java to future employers.",
+      "3.Learn industry best practices in Java software development from a professional Java developer who has worked in the language for 18 years",
+      "4.Obtain proficiency in Java 8 and Java 11."
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6358b92b0761b79a233638ce",
+
+    "category_id": "04",
+    "rating": { "number": 4.8, "badge": "Hot&New" },
+    "total_inrolled": 238,
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "instructor": {
+      "name": ["Jonas alo"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
+    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+    "price": 35,
+    "learn": [
+      "1.Become an advanced, confident, and modern JavaScript developer from scratch",
+      "2. Become job-ready by understanding how JavaScript really works behind the scenes",
+      "3.Learn industry best practices in Java software development from a professional Java developer who has worked in the language for 18 years",
+      "4.Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc."
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6358b92b0761b79a233638ce",
+
+    "category_id": "04",
+    "rating": { "number": 4.8, "badge": "Hot&New" },
+    "total_inrolled": 238,
+    "title": "The Complete PHP MYSQL Professional Course with 5 Projects",
+    "instructor": {
+      "name": ["Jonas alo"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
+    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "description": "Learn PHP MYSQL by building 5 Projects including PHP Regular Expressions & CMS | Become a Full Stack Back-End Developer.",
+    "price": 39,
+    "learn": [
+      "1.All PHP Fundamentals and Building Blocks with practical implementation in Projects",
+      "2. Form Validation with most Secure way using Regular Expressions",
+      "3.Employee Management System CRUD Application in PHP From Scartch",
+      "4.Complete CMS ( Content Management System) with Admin-Panel"
     ],
     "curriculum ": ""
   }
