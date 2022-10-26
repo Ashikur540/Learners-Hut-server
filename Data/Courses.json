@@ -70,5 +70,51 @@
       "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
     ],
     "curriculum ": ""
+  },
+  {
+    "_id": "6358a7f922ec09ac480cb754",
+
+    "category_id": "02",
+    "rating": { "number": 4.2, "badge": "trending" },
+    "total_inrolled": 128,
+    "title": "Digital Marketing: How to Generate Sales Leads",
+    "instructor": {
+      "name": ["Jimmy Dane"],
+      "last_updated": " 10/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/wC0GhPy/2c1.jpg",
+    "image_url": " https://i.ibb.co/Htn3rRM/2C1.webp",
+    "description": "Learn How To Generate Leads With A Step-By-Step Workbook & Action Plan To Boost Your Sales in 2019",
+    "price": 31,
+    "learn": [
+      "1.Generate leads from your website",
+      "2.Generate leads from your website",
+      "3.Generate leads from social media",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6358a7f98c37ee3cb56543f1",
+
+    "category_id": "02",
+    "rating": { "number": 4.2, "badge": "trending" },
+    "total_inrolled": 128,
+    "title": "Digital Marketing: How to Generate Sales Leads",
+    "instructor": {
+      "name": ["Jimmy Dane"],
+      "last_updated": " 10/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/stLZSq3/2c2.jpg",
+    "image_url": "https://i.ibb.co/QQykXVB/2C2.png",
+    "description": "Create a great mobile app business! Get 1,000,000+ downloads with app store optimization ASO (SEO) & strong monetization",
+    "price": 31,
+    "learn": [
+      "1.You will learn ASO (app store search optimization) and rank highly in Apple App Store and Google Pla",
+      "2.Get 1,000,000+ downloads for your app",
+      "3.You will learn ASO (app store search optimization) and rank highly in Apple App Store and Google Play",
+      "4.Top app monetization strategies"
+    ],
+    "curriculum ": ""
   }
 ]
