@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.9, "badge": "Bestseller" },
+    "total_inrolled": 488,
+    "title": "Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more",
+    "instructor": {
+      "name": ["Jimmy Dane", "Tom Holland"],
+      "last_updated": " 10/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/QfhcYzB/1c2.jpg",
+    "image_url": " https://i.ibb.co/p4WDmfD/3C3.webp",
+    "description": "Become a Designer in 2022! Master Mobile and Web Design, User Interface + User Experience (UI/UX Design), HTML, and CSS",
+    "price": 19,
+    "learn": [
+      "1.Build beautifully designed web and mobile projects for your customers using modern tools used by top companies in 2022",
+      "2.Includes 100+ assets and premium design templates that you can keep and use to customize for all your future projects",
+      "3.Have an amazing design portfolio customized and professionally completed by the end of the course (we provide it for you!)",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6358a7f95ecfef5ddd4e6050",
+
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Bestseller" },
+    "total_inrolled": 488,
+    "title": "UI UX Design Patterns - by University UX Instructor - 2022",
+    "instructor": {
+      "name": ["Jimmy Dane"],
+      "last_updated": " 10/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/5hdJRHZ/1c1.jpg",
+    "image_url": "https://i.ibb.co/TgpJkj9/1C2.png",
+    "description": "Go deep into User Interface design patterns and UI components + create these design patterns using the design tool figma",
+    "price": 71,
+    "learn": [
+      "1.Build beautifully designed web and mobile projects for your customers using modern tools used by top companies in 2022",
+      "2.Includes 100+ assets and premium design templates that you can keep and use to customize for all your future projects",
+      "3.Have an amazing design portfolio customized and professionally completed by the end of the course (we provide it for you!)",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6358a7f95ecfef5ddd4e6050",
+
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Bestseller" },
+    "total_inrolled": 488,
+    "title": "UI UX Design Patterns - by University UX Instructor - 2022",
+    "instructor": {
+      "name": ["Jimmy Dane"],
+      "last_updated": " 10/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/QfhcYzB/1c2.jpg",
+    "image_url": " https://i.ibb.co/p4WDmfD/3C3.webp",
+    "description": "Using design patterns can be extremely helpful, mostly because they save time (money) and get us better results, faster. Which is the core philosophy of agile application development. As designers, we can leverage these patterns and use them in our daily design decision-making because these patterns and components are used every day across many user experiences and users have been accustomed to how these patterns work. These patterns are less risky than designing something from scratch or creating a brand new user interface. We don’t need to apply them exactly as they are to every problem we encounter, but rather we can build on top of them, using our experience to inform our decisions because we know that these patterns work.",
+    "price": 71,
+    "learn": [
+      "1.UI design",
+      "2.User Experience Designs",
+      "3.Best practices for user interface design",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  }
+]

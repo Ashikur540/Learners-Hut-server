@@ -1,0 +1,30 @@
+[
+  {
+    "category_id": "01",
+    "category_name": "UI-UX Design"
+  },
+  {
+    "category_id": "02",
+    "category_name": "Marketing"
+  },
+  {
+    "category_id": "03",
+    "category_name": "Photography"
+  },
+  {
+    "category_id": "04",
+    "category_name": "Programing"
+  },
+  {
+    "category_id": "05",
+    "category_name": "Web Development"
+  },
+  {
+    "category_id": "06",
+    "category_name": "Arts"
+  },
+  {
+    "category_id": "08",
+    "category_name": "All courses"
+  }
+]
