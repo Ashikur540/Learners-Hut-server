@@ -184,6 +184,7 @@
     ],
     "curriculum ": ""
   },
+
   {
     "_id": "6358b92b0062f71d023285e0",
 
@@ -195,8 +196,8 @@
       "name": ["goils alo"],
       "last_updated": " 12/2022"
     },
-    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
-    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "thumbnail_url": "https://i.ibb.co/7k259bX/4c1.jpg",
+    "image_url": "https://i.ibb.co/N1GrPJ8/PYTHON.webp",
     "description": "Become a Python programmer by learning how to build any Python program from scratch, GUIs, web apps, APIs, and more.",
     "price": 40,
     "learn": [
@@ -218,8 +219,8 @@
       "name": ["goils alo Learining"],
       "last_updated": " 22/2022"
     },
-    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
-    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "thumbnail_url": "https://i.ibb.co/1vsTSdy/4c2.jpg",
+    "image_url": "https://i.ibb.co/NWRT0Zv/AI.jpg",
     "description": "Artificial Intelligence | Data Science with Python | Machine Learning | Deep Learning with Keras and TensorFlow",
     "price": 35,
     "learn": [
@@ -241,8 +242,8 @@
       "name": ["goils alo Learining", "Baluka Goekj"],
       "last_updated": " 24/2022"
     },
-    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
-    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "thumbnail_url": "https://i.ibb.co/xhhfm75/4c3.jpg",
+    "image_url": "https://i.ibb.co/CKLmFHm/JAVA.jpg",
     "description": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
     "price": 35,
     "learn": [
@@ -264,8 +265,8 @@
       "name": ["Jonas alo"],
       "last_updated": " 24/2022"
     },
-    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
-    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "thumbnail_url": "https://i.ibb.co/fkT9rP2/4c4.jpg",
+    "image_url": "https://i.ibb.co/ym2N0wP/JAVASCRIPT.webp",
     "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
     "price": 35,
     "learn": [
@@ -287,8 +288,8 @@
       "name": ["Jonas alo"],
       "last_updated": " 24/2022"
     },
-    "thumbnail_url": "https://i.ibb.co/9vTfWx1/3c2.jpg",
-    "image_url": "https://i.ibb.co/9qZTVR4/3C2.webp",
+    "thumbnail_url": "https://i.ibb.co/TbP9pmr/4c5.jpg",
+    "image_url": "https://i.ibb.co/31BZWXK/PHP.jpg",
     "description": "Learn PHP MYSQL by building 5 Projects including PHP Regular Expressions & CMS | Become a Full Stack Back-End Developer.",
     "price": 39,
     "learn": [
