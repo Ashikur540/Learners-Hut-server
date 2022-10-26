@@ -54,14 +54,86 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Bestseller" },
     "total_inrolled": 488,
-    "title": "UI UX Design Patterns - by University UX Instructor - 2022",
+    "title": "Learn UI best practices by University UX Instructor - 2022",
     "instructor": {
       "name": ["Jimmy Dane"],
-      "last_updated": " 10/2022"
+      "last_updated": " 11/2022"
     },
     "thumbnail_url": "https://i.ibb.co/QfhcYzB/1c2.jpg",
     "image_url": " https://i.ibb.co/p4WDmfD/3C3.webp",
+
     "description": "Using design patterns can be extremely helpful, mostly because they save time (money) and get us better results, faster. Which is the core philosophy of agile application development. As designers, we can leverage these patterns and use them in our daily design decision-making because these patterns and components are used every day across many user experiences and users have been accustomed to how these patterns work. These patterns are less risky than designing something from scratch or creating a brand new user interface. We don’t need to apply them exactly as they are to every problem we encounter, but rather we can build on top of them, using our experience to inform our decisions because we know that these patterns work.",
+    "price": 40,
+    "learn": [
+      "1.User Experience Designs",
+      "2.UI design",
+      "3.Best practices for user interface design",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "192058a7f95ecfeddd4e60",
+
+    "category_id": "01",
+    "rating": { "number": 4.6, "badge": "Trending" },
+    "total_inrolled": 428,
+    "title": "Build Real World Food App In Adobe XD 2021",
+    "instructor": {
+      "name": ["Nolan Dadh"],
+      "last_updated": " 10/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/Wt1shMy/1c33.jpg",
+    "image_url": "https://i.ibb.co/bvTT67J/1c3.jpg",
+    "description": "Using design patterns can be extremely helpful, mostly because they save time (money) and get us better results, faster. Which is the core philosophy of agile application development. As designers, we can leverage these patterns and use them in our daily design decision-making because these patterns and components are used every day across many user experiences and users have been accustomed to how these patterns work.",
+    "price": 71,
+    "learn": [
+      "1.UI design",
+      "2.User Experience Designs",
+      "3.Best practices for user interface design",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "292s7ff058a7f95ecfedd",
+
+    "category_id": "01",
+    "rating": { "number": 4.6, "badge": "Trending" },
+    "total_inrolled": 428,
+    "title": "Complete After Effects & UI-UX Design by using Photoshop",
+    "instructor": {
+      "name": ["Okah Academy Dadh"],
+      "last_updated": " 10/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/qm2tHms/1c5.jpg",
+    "image_url": "https://i.ibb.co/qN8TPF3/1C55.jpg",
+    "description": "Adobe After Effects, Photoshop, Adobe XD, Adobe Illustrator and make difference using After Effect & UI-UX Design",
+    "price": 71,
+    "learn": [
+      "1.UI design",
+      "2.User Experience Designs",
+      "3.Best practices for user interface design",
+      "4.Get hired as a Designer or become a freelancer that can work from anywhere and for anyone. Designers are in high demand"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6352as058a7f95ecfeddd4e60",
+
+    "category_id": "01",
+    "rating": { "number": 4.2, "badge": "Trending" },
+    "total_inrolled": 228,
+    "title": "App icon Design and UI-UX Design with Adobe XD, Photoshop",
+    "instructor": {
+      "name": ["Okah Academy Dadh"],
+      "last_updated": " 10/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/pnM9ddQ/1c6.jpg",
+    "image_url": "https://i.ibb.co/zQHB2HK/1c66.jpg",
+    "description": "Icon Design, UI UX Design using Adobe Illustrator, Photoshop, Adobe XD and design great l mobile app icons for the apps.",
     "price": 71,
     "learn": [
       "1.UI design",
@@ -75,7 +147,7 @@
     "_id": "6358a7f922ec09ac480cb754",
 
     "category_id": "02",
-    "rating": { "number": 4.2, "badge": "trending" },
+    "rating": { "number": 4.6, "badge": "Bestseller" },
     "total_inrolled": 128,
     "title": "Digital Marketing: How to Generate Sales Leads",
     "instructor": {
@@ -140,6 +212,75 @@
     "curriculum ": ""
   },
   {
+    "_id": "446524fs92a9326a4e634fd7",
+
+    "category_id": "02",
+    "rating": { "number": 4.8, "badge": "Bestseller" },
+    "total_inrolled": 128,
+    "title": "The Complete Digital Marketing Guide - 22 Courses in 1",
+    "instructor": {
+      "name": ["Robin & jasper"],
+      "last_updated": " 10/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/5k8mBk3/2c4.jpg",
+    "image_url": "https://i.ibb.co/G2vGLk7/2C44.jpg",
+    "description": "Digital Marketing & Social Media Marketing Mastery, Google Ads, Facebook Ads, SEO, WordPress, Instagram, YouTube & More.",
+    "price": 22,
+    "learn": [
+      "1.Have a powerful Instagram account setup for your Business or personal that you can build your brand and convert your followers into paying customers.",
+      "2.Attract 10,000 real targeted followers to your Instagram account!",
+      "3.We are up to date with all Instagram features & will guide you step by step on how to utilise these functions to grow your account and market your business."
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "276fase524fs326a4e634028",
+
+    "category_id": "02",
+    "rating": { "number": 4.6, "badge": "Hot&New" },
+    "total_inrolled": 328,
+    "title": "SEO:Affiliate Marketing Website + SEO |255+ Videos |22 Hours",
+    "instructor": {
+      "name": ["Bizop zone"],
+      "last_updated": " 12/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/BjmFkp8/2c5.jpg",
+    "image_url": " https://i.ibb.co/wKjHkh2/2c55.jpg",
+    "description": "Build Profitable Affiliate Websites: Ahrefs niche & keyword & Niche Research, WordPress SEO, on page SEO, Advanced SEO",
+    "price": 22,
+    "learn": [
+      "1.Have a powerful Instagram account setup for your Business or personal that you can build your brand and convert your followers into paying customers.",
+      "2.Attract 10,000 real targeted followers to your Instagram account!",
+      "3.We are up to date with all Instagram features & will guide you step by step on how to utilise these functions to grow your account and market your business."
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6f6tsy67567224fs3234028",
+
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Hot&New" },
+    "total_inrolled": 2328,
+    "title": "YouTube Marketing 2022: YouTube SEO & YouTube Algorithms",
+    "instructor": {
+      "name": ["Bizop zone"],
+      "last_updated": " 12/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/sKLP5Q2/last.jpg",
+    "image_url": "https://i.ibb.co/C2Z5fsM/LASTT.jpg",
+    "description": "YouTube marketing to grow your video views & subscribers with YouTube SEO, recommendations, YouTube ads & YouTube live",
+    "price": 48,
+    "learn": [
+      "1.Boost your YouTube SEO with YouTube ads",
+      "2.Promote your channel and individual videos like a marketing professional would",
+      "3.We are up to date with all Instagram features & will guide you step by step on how to utilise these functions to grow your account and market your business."
+    ],
+    "curriculum ": ""
+  },
+  {
     "_id": "6358b92b3841fb8c3e5887e2",
 
     "category_id": "03",
@@ -178,6 +319,99 @@
     "price": 40,
     "learn": [
       "1.You will know how the camera truly works, so you can take better photos using manual settings",
+      "2.Be aware what photography setting to change when you want to photograph more than one person!",
+      "3.Enjoy creating photography effects like the motion of water while photographing waterfalls",
+      "4.You will know how to edit your photos like a professional"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "253gs4fs2b3841fb8c3887e",
+
+    "category_id": "03",
+    "rating": { "number": 4.3, "badge": "Populer" },
+    "total_inrolled": 328,
+    "title": "Smartphone Photography: Take the BEST photos with your phone",
+    "instructor": {
+      "name": ["Alan keris"],
+      "last_updated": " 10/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/Zfr9m7c/3c3.jpg",
+    "image_url": "https://i.ibb.co/qB5wT7C/3c44.jpg",
+    "description": "Learn how to shoot the BEST photos and edit them from your smartphone. Become a Mobile Photography Master today!",
+    "price": 50,
+    "learn": [
+      "1.How to take advantage of all of your phone's photography features",
+      "2.Be aware what photography setting to change when you want to photograph more than one person!",
+      "3.Enjoy creating photography effects like the motion of water while photographing waterfalls",
+      "4.You will know how to edit your photos like a professional"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "253gs4fs2b3841fb8c3887e",
+
+    "category_id": "03",
+    "rating": { "number": 4.8, "badge": "Hot&New" },
+    "total_inrolled": 308,
+    "title": "All About Photography Exposure",
+    "instructor": {
+      "name": ["Beyob keris"],
+      "last_updated": " 19/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/y61cSnF/3c4.jpg",
+    "image_url": "https://i.ibb.co/W6kYT1L/3c33.jpg",
+    "description": "Learn how to shoot the BEST photos and edit them from your smartphone. Become a Mobile Photography Master today!",
+    "price": 54,
+    "learn": [
+      "1.Exposure Triangle",
+      "2.Be aware what photography setting to change when you want to photograph more than one person!",
+      "3.Enjoy creating photography effects like the motion of water while photographing waterfalls",
+      "4.You will know how to edit your photos like a professional"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "23gs24fs2b3841fb8c38xx62",
+
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "bestseller" },
+    "total_inrolled": 1208,
+    "title": "DIY Product Photography",
+    "instructor": {
+      "name": ["Rosenoi naris"],
+      "last_updated": " 14/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/SfW8bqx/3c5.jpg",
+    "image_url": "https://i.ibb.co/cY5JqkJ/3c5.jpg",
+    "description": "Let's set up your home studio and create stunning images that wow your audience",
+    "price": 40,
+    "learn": [
+      "1.aking photos with whatever camera including mobile phones",
+      "2.Be aware what photography setting to change when you want to photograph more than one person!",
+      "3.Enjoy creating photography effects like the motion of water while photographing waterfalls",
+      "4.You will know how to edit your photos like a professional"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "6gs24f6373841fb8c38x2",
+
+    "category_id": "03",
+    "rating": { "number": 4.2, "badge": "Trending" },
+    "total_inrolled": 808,
+    "title": "Product Photography for Beginners - For DSLR or Phone Camera",
+    "instructor": {
+      "name": ["Rosenoi naris"],
+      "last_updated": " 14/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/yS1hWnT/last.jpg",
+    "image_url": "https://i.ibb.co/vvHbCfK/LASTT.webp",
+    "description": "Learn How to Shoot and Edit Professional Product Shots for E-commerce websites, Creative Projects or Just for Hobby",
+    "price": 120,
+    "learn": [
+      "1.aking photos with whatever camera including mobile phones",
       "2.Be aware what photography setting to change when you want to photograph more than one person!",
       "3.Enjoy creating photography effects like the motion of water while photographing waterfalls",
       "4.You will know how to edit your photos like a professional"
@@ -301,6 +535,30 @@
     "curriculum ": ""
   },
   {
+    "_id": "68b92b0761b79a233638ce",
+
+    "category_id": "04",
+    "rating": { "number": 4.8, "badge": "Bestseller" },
+    "total_inrolled": 20338,
+    "title": "Understanding TypeScript - 2022 Edition",
+    "instructor": {
+      "name": ["Moxia alja"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/xfqTd7j/lsst.jpg",
+    "image_url": "https://i.ibb.co/S7hV7P2/LASTT.png",
+    "description": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!",
+    "price": 29,
+    "learn": [
+      "1.Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects",
+      "2. Form Validation with most Secure way using Regular Expressions",
+      "3.Employee Management System CRUD Application in PHP From Scartch",
+      "4.Complete CMS ( Content Management System) with Admin-Panel"
+    ],
+    "curriculum ": ""
+  },
+  {
     "_id": "6358c2fe70a541624bc7cd89",
 
     "category_id": "05",
@@ -328,7 +586,7 @@
 
     "category_id": "05",
     "rating": { "number": 4.4, "badge": "Trending" },
-    "total_inrolled": 785078,
+    "total_inrolled": 7878,
     "title": "The Full stack Web Development Bootcamp 2022 - MERN STACK",
     "instructor": {
       "name": ["Aroua Academy"],
@@ -352,8 +610,8 @@
     "_id": "2637f70a541624bc7cd229",
 
     "category_id": "05",
-    "rating": { "number": 4.6, "badge": "Highest rated" },
-    "total_inrolled": 785078,
+    "rating": { "number": 4.6, "badge": "Populer" },
+    "total_inrolled": 7078,
     "title": "Full Stack Web Development MASTERY Course - Novice to Expert",
     "instructor": {
       "name": ["Perak Mehta"],
@@ -366,6 +624,83 @@
     "learn": [
       "1.Build Income & ExpensesTracker App using MERN STACK",
       "2.Build Task Manager App using html, css and javascript",
+      "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "4.Learn professional developer best practices",
+      "Master FLEXBOX to layout content easil",
+      "Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "22xsf70a541624bc7cd229",
+
+    "category_id": "05",
+    "rating": { "number": 4.7, "badge": "Highest rated" },
+    "total_inrolled": 5078,
+    "title": "100 Days Of Code - 2022 Web Development Bootcamp",
+    "instructor": {
+      "name": ["Perak Mehta"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": " https://i.ibb.co/mTcK4bc/5.jpg",
+    "image_url": "https://i.ibb.co/VVCvBVp/5c5.png",
+    "description": "Learn web development from A to Z in 100 days (or at your own pace) - from basic to advanced, it's all included!.",
+    "price": 65,
+    "learn": [
+      "1.Build websites, web apps and web services (and understand what these things are)",
+      "2.Build frontend user interfaces with HTML, CSS & JavaScript",
+      "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "4.Learn professional developer best practices",
+      "Master FLEXBOX to layout content easil",
+      "Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "22xsf70gg731624bc7cd229",
+
+    "category_id": "05",
+    "rating": { "number": 4.7, "badge": "Highest rated" },
+    "total_inrolled": 5078,
+    "title": "100 Days Of Code - 2022 Web Development Bootcamp",
+    "instructor": {
+      "name": ["Perak Mehta"],
+      "last_updated": " 24/2022"
+    },
+    "thumbnail_url": "https://i.ibb.co/vxDG42g/last.jpg",
+    "image_url": "https://i.ibb.co/Bfv2Jfr/last.webp",
+    "description": "Learn web development from A to Z in 100 days (or at your own pace) - from basic to advanced, it's all included!.",
+    "price": 65,
+    "learn": [
+      "1.Build websites, web apps and web services (and understand what these things are)",
+      "2.Build frontend user interfaces with HTML, CSS & JavaScript",
+      "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+      "4.Learn professional developer best practices",
+      "Master FLEXBOX to layout content easil",
+      "Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "22xshs66gg731624bc7c02",
+
+    "category_id": "05",
+    "rating": { "number": 4.7, "badge": "Highest rated" },
+    "total_inrolled": 5078,
+    "title": "Figma  Web Design & Animation with 5 Projects (2022)",
+    "instructor": {
+      "name": ["Perak Mehta"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/C0D8JNb/bb.jpg",
+    "image_url": "https://i.ibb.co/qYhzWD5/LASTT.png",
+    "description": "Learn Complete Figma Web Design with Animation & Micro-Interaction, From beginner to advanced.",
+    "price": 65,
+    "learn": [
+      "1.Build websites, web apps and web services (and understand what these things are)",
+      "2.Build frontend user interfaces with HTML, CSS & JavaScript",
       "3.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
       "4.Learn professional developer best practices",
       "Master FLEXBOX to layout content easil",
