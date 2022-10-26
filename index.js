@@ -16,14 +16,17 @@ app.get("/", (req, res) => {
 app.get("/courses/category/", (req, res) => {
     res.send(categoryData)
 })
+app.get("/courses", (req, res) => {
+    res.send(coursesData)
+})
 
 app.get("/courses/category/:id", (req, res) => {
 
     const c_id = req.params.id;
-    console.log(c_id);
+    // console.log(c_id);
 
 
-    if (c_id === "08") {
+    if (c_id === "07") {
         res.send(coursesData);
     }
 
@@ -35,6 +38,16 @@ app.get("/courses/category/:id", (req, res) => {
 app.get("/courses/:id", (req, res) => {
 
     const c_id = req.params.id;
+    // console.log(c_id);
+
+
+    const courseData = coursesData.find(courses => courses._id === c_id);
+    // console.log(courseData);
+    res.send(courseData);
+})
+app.get("/courses/:id/checkout", (req, res) => {
+
+    const c_id = req.params.id;
     console.log(c_id);
 
 
@@ -42,6 +55,21 @@ app.get("/courses/:id", (req, res) => {
     // console.log(courseData);
     res.send(courseData);
 })
+
+
+app.get("/courses/category/:c_id/:id", (req, res) => {
+
+    const { c_id, id } = req.params;
+    // console.log(c_id, id);
+    // filter cat
+    const cat_coursesData = coursesData.filter(courses => courses.category_id === c_id);
+    // console.log("cat courses:", cat_coursesData);
+    // show that cat specific course data
+    const courseData = cat_coursesData.find(course => course._id === id);
+    // console.log("course", courseData);
+    res.send(courseData);
+})
+
 
 app.listen(port, () => {
     console.log("server running on port ", port);
