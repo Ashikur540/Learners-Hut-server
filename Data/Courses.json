@@ -707,5 +707,161 @@
       "Learn how to upload file to cloudinary using Node js"
     ],
     "curriculum ": ""
+  },
+  {
+    "_id": "488shs66g731624bc7c02",
+
+    "category_id": "06",
+    "rating": { "number": 4.7, "badge": "Bestseller" },
+    "total_inrolled": 50788,
+    "title": "The Ultimate Drawing Course - Beginner to Advanced",
+    "instructor": {
+      "name": ["Perak Mehta"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/Bw2jRvg/111.jpg",
+    "image_url": "https://i.ibb.co/Bw2jRvg/111.jpg",
+    "description": "Learn the #1 most important building block of all art, Drawing. This course will teach you how to draw like a pro!",
+    "price": 83,
+    "learn": [
+      "1.Draw objects out of your head",
+      "2.Draw realistic light and shadow",
+      "3.Draw the human face and figure.",
+      "4.Draw perspective drawings",
+      "5.Master FLEXBOX to layout content easil",
+      "6.Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "488sx2d66g731624bc7c02",
+
+    "category_id": "06",
+    "rating": { "number": 4.7, "badge": "Bestseller" },
+    "total_inrolled": 7828,
+    "title": "The Art Course - Beginner to Advanced",
+    "instructor": {
+      "name": ["Perak TThs"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/tBTTLtb/222.jpg",
+    "image_url": "https://i.ibb.co/tBTTLtb/222.jpg",
+    "description": "Learn the #1 most important building block of all art, Drawing. This course will teach you how to draw like a pro!",
+    "price": 83,
+    "learn": [
+      "1.Draw objects out of your head",
+      "2.Draw realistic light and shadow",
+      "3.Draw the human face and figure.",
+      "4.Draw perspective drawings",
+      "5.Master FLEXBOX to layout content easil",
+      "6.Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "488sx2d66g731627c02",
+
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Hot&New" },
+    "total_inrolled": 7828,
+    "title": "Therapeutic Art Life Coach Certification (Accredited)",
+    "instructor": {
+      "name": ["Perak TThs"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/1TBHzwt/333.jpg",
+    "image_url": "https://i.ibb.co/1TBHzwt/333.jpg",
+    "description": "Therapeutic Art: Help Clients Heal, Reduce Stress & Manifest Dreams with Mandalas, Affirmations, Vision Boards & More",
+    "price": 69,
+    "learn": [
+      "1.Understand the psychology behind how to use therapeutic art to access the subconscious mind and change limiting patterns and beliefs.",
+      "2.Use therapeutic art techniques with your clients to help them increase their happiness, manage their emotions in a positive way, and feel more confident!",
+      "3.Draw the human face and figure.",
+      "4.Draw perspective drawings",
+      "5.Master FLEXBOX to layout content easil",
+      "6.Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "488sx2d66g731627882gc02",
+
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Hot&New" },
+    "total_inrolled": 7828,
+    "title": "Background Design - Landscapes and Environments",
+    "instructor": {
+      "name": ["Perak TThs"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/g4FCVVC/444.jpg",
+    "image_url": "https://i.ibb.co/g4FCVVC/444.jpg",
+    "description": "Create Concept Art and Digital Paintings for Film, Animation or Games",
+    "price": 69,
+    "learn": [
+      "1.You'll learn to paint backgrounds for films, animation or games.",
+      "2.You'll learn about key principles of composition",
+      "3.Draw the human face and figure.",
+      "4.Draw perspective drawings",
+      "5.Master FLEXBOX to layout content easil",
+      "6.Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "27hw876da2231627882gc02",
+
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Bestseller" },
+    "total_inrolled": 7828,
+    "title": "Procreate: Draw, Sketch, Paint, and Design on Your iPad",
+    "instructor": {
+      "name": ["jermu  hs"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/stJXd8f/555.jpg",
+    "image_url": "https://i.ibb.co/stJXd8f/555.jpg",
+    "description": "Learn how to draw on your iPad with this complete Procreate course! Bring your imaginations to life with digital art!",
+    "price": 69,
+    "learn": [
+      "1.You'll learn to paint backgrounds for films, animation or games.",
+      "2.You'll learn about key principles of composition",
+      "3.Draw the human face and figure.",
+      "4.Draw perspective drawings",
+      "5.Master FLEXBOX to layout content easil",
+      "6.Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
+  },
+  {
+    "_id": "0192rr7hw876da223162gc02",
+
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Bestseller" },
+    "total_inrolled": 7828,
+    "title": "Anyone Can Paint: Learn to Paint 10 Easy Watercolor Sunsets",
+    "instructor": {
+      "name": ["jermu  hs"],
+      "last_updated": " 24/2022"
+    },
+
+    "thumbnail_url": "https://i.ibb.co/4FnLy0Q/last.jpg",
+    "image_url": "https://i.ibb.co/4FnLy0Q/last.jpg",
+    "description": "In this class, I will guide you through 30 days of painting dreamy watercolor landscapes. The projects I have chosen are truly beautiful and I bet you'll have an incredible time each day as you discover new techniques, color combinations, tips and tricks. I believe that everyone can paint, and I am sure we have all had the desire to paint something at one time or another. Painting has a healing, calming and transformative effect on us",
+    "price": 69,
+    "learn": [
+      "1.You'll learn to paint backgrounds for films, animation or games.",
+      "2.You'll learn about key principles of composition",
+      "3.Draw the human face and figure.",
+      "4.Draw perspective drawings",
+      "5.Master FLEXBOX to layout content easil",
+      "6.Learn how to upload file to cloudinary using Node js"
+    ],
+    "curriculum ": ""
   }
 ]
